@@ -28,6 +28,6 @@ L'idée est de créer un groupe suffisamment bienveillant et chaleureux pour ne 
 
 Celles que les membres se donneront :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit cahier de nouvelles par exemple !
 
-### Quel est le prix de la côtisation ?
+### Quel est le prix de la cotisation ?
 
 Pour l'instant : rien ! Vient qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
