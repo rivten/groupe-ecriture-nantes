@@ -4,17 +4,17 @@ title: À propos
 permalink: /about/
 ---
 
-Bienvenue voyageur,
+Bienvenu voyageur,
 
 Tu te trouves sur la page d'un groupe d'écriture nantais. Ce groupe est encore en construction. Tu y trouveras ici réponse à tes questions. Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
 
 ## Qui suis-je ?
 
 <span class="small-text">
-_Note. L'idée est qu'à terme cette section disparaîsse car la question n'est pas très importante par rapport à une présentation du collectif._
+_Note. L'idée est qu'à terme cette section disparaisse, car la question n'est pas très importante par rapport à une présentation du collectif._
 </span>
 
-Je m'appelle Hugo, fraîchement débarqué à Nantes et j'ai 29 ans. Je crois profondémment au collectif pour se motiver, progresser, partager et s'enrichir :)
+Je m'appelle Hugo, fraîchement débarqué à Nantes et j'ai 29 ans. Je crois profondément au collectif pour se motiver, progresser, partager et s'enrichir :)
 
 <img src="images/hugo_crop.png" alt="hugo" width="150" class="circled"/>
 
@@ -44,7 +44,7 @@ Celles que les membres se donneront :) progresser tous ensemble et se partager d
 
 ### Quel est le prix de la cotisation ?
 
-Pour l'instant : rien ! Vient qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
+Pour l'instant : rien ! Viens qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
