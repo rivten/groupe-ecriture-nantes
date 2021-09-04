@@ -48,7 +48,7 @@ Rien du tout ! Viens qui veut, quand il/elle le veut. Il faudra simplement payer
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
-Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord]()
+Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord]().
 
 
 ## Quelques références
