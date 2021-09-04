@@ -40,7 +40,7 @@ L'idée est de créer un groupe suffisamment bienveillant et chaleureux pour ne 
 
 ### Quelles sont les ambitions du groupe ?
 
-Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit cahier de nouvelles par exemple !
+Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit receuil de nouvelles par exemple !
 
 ### Quel est le prix de la cotisation ?
 
