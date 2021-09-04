@@ -28,7 +28,7 @@ Car c'est plus vivant, c'est l'occasion de partager et d'avoir des retours sur n
 
 ### Comment se passe une réunion ?
 
-Il n'y a rien de décidé ! Une première possibilité pourrait être d'organiser des auto-ateliers le temps d'une soirée. Une seconde serait de partager en lecture des textes écrits par les membres du groupe entre les réunions et de faire des retours constructifs et bienveillants sur ces textes.
+Il n'y a rien de décidé ! Une première possibilité pourrait être de s'organiser des ateliers ou exercices le temps d'une soirée. Une seconde serait de partager en lecture des textes écrits par les membres du groupe entre les réunions et de faire des retours constructifs et bienveillants sur ces textes.
 
 ### Où se passent les réunions ? Quelle régularité ?
 
