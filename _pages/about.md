@@ -44,7 +44,7 @@ Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se 
 
 ### Quel est le prix de la cotisation ?
 
-Pour l'instant : rien ! Viens qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
+Rien du tout ! Viens qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
