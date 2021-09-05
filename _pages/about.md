@@ -6,7 +6,7 @@ permalink: /about/
 
 Bienvenue,
 
-Tu te trouves sur la page d'un groupe d'écriture nantais. Ce groupe est encore en construction. Tu y trouveras ici réponse à tes questions. Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
+Tu te trouves sur la page d'un groupe d'écriture de fiction nantais. Ce groupe est encore en construction. Tu y trouveras ici réponse à tes questions. Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
 
 ## Qui suis-je ?
 
@@ -32,7 +32,7 @@ Il n'y a rien de décidé ! Une première possibilité pourrait être de s'organ
 
 ### Où se passent les réunions ? Quelle régularité ?
 
-Pareil, à définir ensemble ! Un café calme dans le centre de Nantes semble être un premier bon choix. Une fois toutes les deux semaines ou une fois par mois pourrait également être un premier choix de rythme.
+Pareil, à définir ensemble ! Un café calme dans le centre de Nantes semble être un bon premier choix. Pour le rythme, une fois toutes les deux semaines ou une fois par mois serait une première idée.
 
 ### Je n'ai jamais écrit...
 
@@ -40,11 +40,11 @@ L'idée est de créer un groupe suffisamment bienveillant et chaleureux pour ne 
 
 ### Quelles sont les ambitions du groupe ?
 
-Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit receuil de nouvelles par exemple !
+Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit recueil de nouvelles par exemple !
 
 ### Quel est le prix de la cotisation ?
 
-Rien du tout ! Viens qui veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
+Rien du tout ! Chacun vient comme il/elle veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
@@ -54,5 +54,5 @@ Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoind
 ## Quelques références
 
 * [How to run a wicked good writing group](https://docs.google.com/document/d/1nSHwVQqZWpMnXg4QjVpQfYW9A8k0sCbY_bce-CsqTvM/edit)
-* [6 benetifs of joining a writing group](https://www.masterclass.com/articles/how-to-find-a-writing-group#6-benefits-of-joining-a-writing-group)
+* [6 benefits of joining a writing group](https://www.masterclass.com/articles/how-to-find-a-writing-group#6-benefits-of-joining-a-writing-group)
 * [Benefits and joys of a writing group](https://medium.com/creative-humans/the-benefits-and-joys-of-a-writing-group-23463cca42cb)
