@@ -7,8 +7,8 @@ permalink: /about/
 Bienvenue,
 
 Tu te trouves sur la page d'un groupe nantais d'écriture de l'imaginaire. Ce groupe est encore en construction.
-Il a pour but de réunir des personnes qui ont une affinité pour la littérature de l'imaginaire et pour l'écriture afin de produire des textes lors ou entre des sessions régulières.
-Tu y trouveras ici réponse à tes questions. 
+Il a pour but de réunir des personnes qui ont une affinité pour la littérature de l'imaginaire et pour l'écriture afin de produire des textes pendant ou entre des sessions régulières.
+Tu y trouveras réponse à tes questions sur cette page. 
 Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
 
 ## Foire aux questions
@@ -17,13 +17,17 @@ Reviens ici pour être informé des prochains événements, moments d'écritures
 
 Car c'est plus vivant, c'est l'occasion de partager et d'avoir des retours sur nos textes. C'est aussi une manière de se pousser à écrire. Quelques liens sont dans les [références](#quelques-références).
 
-### Qu'est-ce que la littérature de l'imaginaire ? Pourquoi se limiter à ce genre ?
+### Qu'est-ce que la littérature de l'imaginaire ?
 
-Il n'y a pas de définition toute faîtes, mais on regroupe généralement la science-fiction, la fantasy, le fantastique, l'anticipation ou encore le réalisme magique, l'étrange ou les contes sous le terme d'imaginaire. Il n'y a pas de volonté de produire _uniquement_ des textes de ce genre, mais il semblait intéressant d'avoir une dynamique portée sur l'extraordinaire comme socle. Cependant libre à chacune et chacun de produire les textes qui les animent.
+Il n'existe pas de définition toute faîte, mais on regroupe généralement la science-fiction, la fantasy, le fantastique, l'anticipation ou encore le réalisme magique, l'étrange ou les contes sous le terme d'imaginaire.
+
+### Pourquoi se limiter à ce genre ?
+
+Il n'y a pas de volonté de produire _uniquement_ des textes de ce genre, mais il semblait intéressant d'avoir une dynamique portée sur l'extraordinaire comme socle. Cependant libre à chacune et chacun de produire les textes qui les animent.
 
 ### Comment se passe une réunion ?
 
-Il n'y a rien de décidé ! Une première possibilité pourrait être de s'organiser des ateliers ou exercices le temps d'une soirée. Une seconde serait de partager en lecture des textes écrits par les membres du groupe entre les réunions et de faire des retours constructifs et bienveillants sur ces textes.
+Deux formats sont envisageable. Une première possibilité pourrait être de s'organiser des ateliers ou exercices le temps d'une soirée. Une seconde serait de partager en lecture des textes écrits par les membres du groupe entre les réunions et de faire des retours constructifs et bienveillants sur ces textes. Cela peut évoluer selon les souhaits du groupe.
 
 ### Où se passent les réunions ? Quelle régularité ?
 
