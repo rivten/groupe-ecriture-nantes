@@ -6,25 +6,20 @@ permalink: /about/
 
 Bienvenue,
 
-Tu te trouves sur la page d'un groupe d'écriture de fiction nantais. Ce groupe est encore en construction. Tu y trouveras ici réponse à tes questions. Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
-
-## Qui suis-je ?
-
-<span class="small-text">
-_Note. L'idée est qu'à terme cette section disparaisse, car la question n'est pas très importante par rapport à une présentation du collectif._
-</span>
-
-Je m'appelle Hugo, fraîchement débarqué à Nantes et j'ai 29 ans. Je crois profondément au collectif pour se motiver, progresser, partager et s'enrichir :)
-
-<img src="images/hugo_crop.png" alt="hugo" width="150" class="circled"/>
-
-J'ai toujours écrit en dilettante. Principalement autour de l'imaginaire. Je souhaite aujourd'hui écrire plus et partager ça au sein d'un groupe. Comme je n'ai pas trouvé de tels groupes sur Nantes, j'ai souhaité voir si d'autres personnes étaient intéressées pour se rassembler.
+Tu te trouves sur la page d'un groupe nantais d'écriture de l'imaginaire. Ce groupe est encore en construction.
+Il a pour but de réunir des personnes qui ont une affinité pour la littérature de l'imaginaire et pour l'écriture afin de produire des textes lors ou entre des sessions régulières.
+Tu y trouveras ici réponse à tes questions. 
+Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
 
 ## Foire aux questions
 
 ### Pourquoi rejoindre un groupe d'écriture ?
 
 Car c'est plus vivant, c'est l'occasion de partager et d'avoir des retours sur nos textes. C'est aussi une manière de se pousser à écrire. Quelques liens sont dans les [références](#quelques-références).
+
+### Qu'est-ce que la littérature de l'imaginaire ? Pourquoi se limiter à ce genre ?
+
+Il n'y a pas de définition toute faîtes, mais on regroupe généralement la science-fiction, la fantasy, le fantastique, l'anticipation ou encore le réalisme magique, l'étrange ou les contes sous le terme d'imaginaire. Il n'y a pas de volonté de produire _uniquement_ des textes de ce genre, mais il semblait intéressant d'avoir une dynamique portée sur l'extraordinaire comme socle. Cependant libre à chacune et chacun de produire les textes qui les animent.
 
 ### Comment se passe une réunion ?
 
@@ -46,6 +41,18 @@ Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se 
 
 Rien du tout ! Chacun vient comme il/elle veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
 
+## Qui suis-je ?
+
+<span class="small-text">
+_Note. L'idée est qu'à terme cette section disparaisse, car la question n'est pas très importante par rapport à une présentation du collectif._
+</span>
+
+Je m'appelle Hugo, fraîchement débarqué à Nantes et j'ai 29 ans. Je crois profondément au collectif pour se motiver, progresser, partager et s'enrichir :)
+
+<img src="images/hugo_crop.png" alt="hugo" width="150" class="circled"/>
+
+J'ai toujours écrit en dilettante. Principalement autour de l'imaginaire. Je souhaite aujourd'hui écrire plus et partager ça au sein d'un groupe. Comme je n'ai pas trouvé de tels groupes sur Nantes, j'ai souhaité voir si d'autres personnes étaient intéressées pour se rassembler.
+
 ## Intéressée ? Intéressé ? D'autres questions ?
 
 Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord]().
@@ -53,6 +60,7 @@ Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoind
 
 ## Quelques références
 
+* [Littérature de l'imaginaire – Wikipédia](https://fr.wikipedia.org/wiki/Litt%C3%A9ratures_de_l%27imaginaire)
 * [How to run a wicked good writing group](https://docs.google.com/document/d/1nSHwVQqZWpMnXg4QjVpQfYW9A8k0sCbY_bce-CsqTvM/edit)
 * [6 benefits of joining a writing group](https://www.masterclass.com/articles/how-to-find-a-writing-group#6-benefits-of-joining-a-writing-group)
 * [Benefits and joys of a writing group](https://medium.com/creative-humans/the-benefits-and-joys-of-a-writing-group-23463cca42cb)
