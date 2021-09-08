@@ -59,7 +59,7 @@ J'ai toujours écrit en dilettante. Principalement autour de l'imaginaire. Je so
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
-Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord]().
+Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord](https://discord.gg/CeJeJBMQrz).
 
 
 ## Quelques références
