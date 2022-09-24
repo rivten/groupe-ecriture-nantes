@@ -6,10 +6,9 @@ permalink: /about/
 
 Bienvenue,
 
-Tu te trouves sur la page d'un groupe nantais d'écriture de l'imaginaire. Ce groupe est encore en construction.
-Il a pour but de réunir des personnes qui ont une affinité pour la littérature de l'imaginaire et pour l'écriture afin de produire des textes pendant ou entre des sessions régulières.
+Tu te trouves sur la page d'un groupe nantais d'écriture de l'imaginaire. Ce groupe existe depuis la rentrée 2021 et regroupe environ sept membres actifs et actives.
+Il a pour but de réunir des personnes qui ont une affinité pour la littérature de l'imaginaire et pour l'écriture afin de produire des textes entre des sessions régulières.
 Tu trouveras réponse à tes questions sur cette page. 
-Reviens ici pour être informé des prochains événements, moments d'écritures, rencontres, etc.
 
 ## Foire aux questions
 
@@ -27,11 +26,12 @@ Il n'y a pas de volonté de produire _uniquement_ des textes de ce genre, mais i
 
 ### Comment se passe une réunion ?
 
-Deux formats sont envisageables. Une première possibilité pourrait être de s'organiser des ateliers ou exercices le temps d'une soirée. Une seconde serait de partager en lecture des textes écrits par les membres du groupe entre les réunions et de faire des retours constructifs et bienveillants sur ces textes. Cela peut évoluer selon les souhaits du groupe.
+Cela varie. Généralement nous nous retrouvons pour deux heures. Nous commençons par discuter de tout et de rien. Ensuite, si un exercice a été donné la dernière fois, nous faisons des retours sur les textes de chacune et chacun. Parfois, nous parlons de sujets techniques, parfois de l'avancée de nos projets personnels.  
+En fin de réunion, nous choisissons généralement le thème du prochain exercice.
 
 ### Où se passent les réunions ? Quelle régularité ?
 
-Pareil, à définir ensemble ! Un bon premier choix serait un café calme dans le centre de Nantes. Pour le rythme, nous pourrions dire une fois toutes les deux semaines ou une fois par mois.
+Nous nous retrouvons en général au bar à jeux *Sur un plateau* dans Nantes. Si celui-ci n'est pas disponible, nous trouvons alors un autre bar où il est facile de discuter.
 
 ### Je n'ai jamais écrit...
 
@@ -39,28 +39,19 @@ L'idée est de créer un groupe suffisamment bienveillant et chaleureux pour ne 
 
 ### Quelles sont les ambitions du groupe ?
 
-Celles que les membres se fixeront eux-mêmes :) progresser tous ensemble et se partager de chouettes textes semble être un premier bel objectif. Si l'ensemble du groupe est motivé, on peut complètement imaginer l'auto-édition d'un petit recueil de nouvelles par exemple !
+Nous cherchons avant tout des gens avec qui partager notre envie d'écrire, avec qui se motiver à écrire, et avoir des retours des uns et des autres pour progresser. Il n'est pas encore question d'ambitions de publication aujourd'hui, même si nous n'y sommes pas hostiles.
 
 ### Quel est le prix de la cotisation ?
 
 Rien du tout ! Chacun vient comme il/elle veut, quand il/elle le veut. Il faudra simplement payer les consommations pour les réunions dans les cafés.
 
-## Qui suis-je ?
+## Qui sommes-nous ?
 
-<span class="small-text">
-_Note. L'idée est qu'à terme cette section disparaisse, car la question n'est pas très importante par rapport à une présentation du collectif._
-</span>
-
-Je m'appelle Hugo, fraîchement débarqué à Nantes et j'ai 29 ans. Je crois profondément au collectif pour se motiver, progresser, partager et s'enrichir :)
-
-<img src="images/hugo_crop.png" alt="hugo" width="150" class="circled"/>
-
-J'ai toujours écrit en dilettante. Principalement autour de l'imaginaire. Je souhaite aujourd'hui écrire plus et partager ça au sein d'un groupe. Comme je n'ai pas trouvé de tels groupes sur Nantes, j'ai souhaité voir si d'autres personnes étaient intéressées pour se rassembler.
+Nous sommes des hommes et des femmes nantaises, entre 25 et 40 pour la plupart. Nous écrivons à des rythmes différents, dans des registres différents, mais avec une passion commune pour la littérature de l'imaginaire. Nous aimons nous retrouver pour échanger, rire et imaginer autour d'une bière, d'une tisane ou d'un carrot cake :)
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
-Alors n'hésite pas à [me contacter](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord](https://discord.gg/CeJeJBMQrz).
-
+Alors n'hésite pas à [contacter Hugo du groupe](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord](https://discord.gg/CeJeJBMQrz).
 
 ## Quelques références
 
