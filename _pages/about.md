@@ -51,7 +51,7 @@ Nous sommes des hommes et des femmes nantaises, entre 25 et 40 pour la plupart. 
 
 ## Intéressée ? Intéressé ? D'autres questions ?
 
-Alors n'hésite pas à [contacter Hugo du groupe](mailto:hugo.viala@gmail.com) ou à rejoindre le [groupe discord](https://discord.gg/CeJeJBMQrz).
+Alors n'hésite pas à [nous contacter par mail](mailto:gneimaginaire@gmail.com).
 
 ## Quelques références
 
